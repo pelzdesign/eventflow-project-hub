@@ -69,3 +69,8 @@ Open both organizer and guest pages through the start page to use the same demo 
 - 06_changelog/README.md — change history.
 
 The private working repositories contain additional details not reproduced in this public Hub. Visual references and reusable media are stored separately in https://github.com/pelzdesign/eventflow-media; consult its ASSET_INDEX.md and product folders before visual work.
+
+
+## Financial and technology principle
+
+EventFlow is developed primarily with the owner's and AI assistants' own efforts, GitHub Free, and free third-party tools. Until real sales revenue exists, use only free apps, services, platforms, and AI tools. No assistant may activate a paid plan or create expenses without the owner's explicit prior approval; this remains true even after revenue begins. Canonical decision (Russian): https://github.com/pelzdesign/eventflow-project-docs/blob/main/05_decisions/2026-11-15-financial-independence-and-free-tools.md.
