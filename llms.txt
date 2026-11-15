@@ -48,7 +48,7 @@ The public Demo uses SharedWorker and in-memory session data. It is not persiste
 
 ## Public Demo
 
-- Start: https://pelza83.github.io/eventflow-demo/demo.html
+- Start: https://pelzdesign.github.io/eventflow-demo/demo.html
 - Organizer: https://pelza83.github.io/eventflow-demo/demo-organizer.html
 - Guest invitation: https://pelza83.github.io/eventflow-demo/demo-guest.html
 
@@ -68,4 +68,4 @@ Open both organizer and guest pages through the start page to use the same demo 
 - 05_decisions/README.md — decisions registry.
 - 06_changelog/README.md — change history.
 
-The private working repositories contain additional details not reproduced in this public Hub.
+The private working repositories contain additional details not reproduced in this public Hub. Visual references and reusable media are stored separately in https://github.com/pelzdesign/eventflow-media; consult its ASSET_INDEX.md and product folders before visual work.
