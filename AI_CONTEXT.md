@@ -26,10 +26,10 @@ EventFlow — платформа цифровых приглашений и ре
 
 - **График и приоритеты:** [DEMO_RELEASE_PLAN.md](DEMO_RELEASE_PLAN.md).
 - **Текущая публичная контрольная точка:** [PROJECT_STATUS.md](PROJECT_STATUS.md).
-- **Подробный статус кода и пользовательских проверок:** [PROJECT_STATUS.md в eventflow-demo](https://github.com/PelzA83/eventflow-demo/blob/main/docs/PROJECT_STATUS.md).
-- **Утверждённые спецификации:** приватный репозиторий [PelzA83/EventFlow](https://github.com/PelzA83/EventFlow), каталог docs/specifications.
-- **Карта документации и иерархия источников:** приватный [PROJECT_MAP.md](https://github.com/PelzA83/eventflow-project-docs/blob/main/PROJECT_MAP.md).
-- **Подробная архитектура, аудиты, SQL, решения и история:** приватный репозиторий [eventflow-project-docs](https://github.com/PelzA83/eventflow-project-docs).
+- **Подробный статус кода и пользовательских проверок:** [PROJECT_STATUS.md в eventflow-demo](https://github.com/pelzdesign/eventflow-demo/blob/main/docs/PROJECT_STATUS.md).
+- **Утверждённые спецификации:** приватный репозиторий [pelzdesign/EventFlow](https://github.com/pelzdesign/EventFlow), каталог docs/specifications.
+- **Карта документации и иерархия источников:** приватный [PROJECT_MAP.md](https://github.com/pelzdesign/eventflow-project-docs/blob/main/PROJECT_MAP.md).
+- **Подробная архитектура, аудиты, SQL, решения и история:** приватный репозиторий [eventflow-project-docs](https://github.com/pelzdesign/eventflow-project-docs).
 
 Публичный Project Hub содержит краткие справочные материалы. Он не является полным зеркалом приватных документов и не переопределяет актуальный код Demo.
 
@@ -47,11 +47,11 @@ EventFlow — платформа цифровых приглашений и ре
 
 ## 5. Текущая публичная Demo
 
-Код: https://github.com/PelzA83/eventflow-demo
+Код: https://github.com/pelzdesign/eventflow-demo
 
-- Стартовая страница: https://pelza83.github.io/eventflow-demo/demo.html
-- Кабинет организатора: https://pelza83.github.io/eventflow-demo/demo-organizer.html
-- Гостевое приглашение: https://pelza83.github.io/eventflow-demo/demo-guest.html
+- Стартовая страница: https://pelzdesign.github.io/eventflow-demo/demo.html
+- Кабинет организатора: https://pelzdesign.github.io/eventflow-demo/demo-organizer.html
+- Гостевое приглашение: https://pelzdesign.github.io/eventflow-demo/demo-guest.html
 
 Страницы нужно открывать через стартовую страницу, чтобы использовать общую демонстрационную сессию.
 
