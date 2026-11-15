@@ -1,6 +1,6 @@
 # EventFlow — Project Hub Navigation
 
-Last updated: 2026-11-14
+Last updated: 2026-11-15
 Language: Russian
 
 ## Start here
@@ -9,7 +9,7 @@ Language: Russian
 2. AI_HANDOFF.md — rules for continuing work.
 3. PROJECT_STATUS.md — current public project checkpoint.
 4. DEMO_RELEASE_PLAN.md — release sequence and demo criteria.
-5. https://github.com/PelzA83/eventflow-demo/blob/main/docs/PROJECT_STATUS.md — detailed verified status of the public Demo.
+5. https://github.com/pelzdesign/eventflow-demo/blob/main/docs/PROJECT_STATUS.md — detailed verified status of the public Demo.
 
 ## Current priority
 
@@ -26,13 +26,20 @@ Current sequence:
 6. Prepare and demonstrate the wedding product next.
 7. Defer nonessential improvements until demonstrations begin.
 
-Previously discussed wedding visual decisions must be preserved. The New Year visual direction has not yet been discussed and must be developed separately.
+Previously discussed wedding visual decisions must be preserved. The New Year interactive fairytale story was already agreed: a layered fairytale conifer forest opens onto a clearing with a stump and ribboned envelope; the envelope opens and reveals a magical sheet with gradually appearing invitation text; the sheet exits upward; a blurred clearing remains with RSVP; decline shows a closed envelope and edit-response action; confirmation reveals a new sheet from a flash. Full scenario: https://github.com/pelzdesign/eventflow-media/blob/main/references/products/new-year/fairytale/NEW_YEAR_STORY_SCENARIO.md.
+
+## Visual reference library
+
+- Private media/reference repository: https://github.com/pelzdesign/eventflow-media
+- Central asset register: ASSET_INDEX.md
+- New Year fairytale references and scenario: references/products/new-year/fairytale/
+- Before any visual task, inspect the repository tree and index. Do not ask the owner to re-send materials until the repository has been checked. Respect asset status, version, and rights.
 
 ## Source hierarchy
 
-- Approved specifications and full working roadmap: private repository PelzA83/EventFlow.
-- Public Demo code and verified user-flow status: PelzA83/eventflow-demo.
-- Detailed architecture, audits, database materials, decisions and changelog: private repository PelzA83/eventflow-project-docs.
+- Approved specifications and full working roadmap: private repository pelzdesign/EventFlow.
+- Public Demo code and verified user-flow status: pelzdesign/eventflow-demo.
+- Detailed architecture, audits, database materials, decisions and changelog: private repository pelzdesign/eventflow-project-docs.
 - This public Hub: curated navigation and summary only; not a source of truth when private or live Demo sources differ.
 
 ## Important limitations
