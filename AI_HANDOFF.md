@@ -13,16 +13,16 @@
 1. Открой [AI_CONTEXT.md](AI_CONTEXT.md) — краткий контекст.
 2. Открой [DEMO_RELEASE_PLAN.md](DEMO_RELEASE_PLAN.md) — график, приоритет и следующий шаг.
 3. Открой [PROJECT_STATUS.md](PROJECT_STATUS.md) — публичная контрольная точка.
-4. Для фактического состояния Demo открой [подробный статус в репозитории Demo](https://github.com/PelzA83/eventflow-demo/blob/main/docs/PROJECT_STATUS.md).
+4. Для фактического состояния Demo открой [подробный статус в репозитории Demo](https://github.com/pelzdesign/eventflow-demo/blob/main/docs/PROJECT_STATUS.md).
 5. Перейди к конкретной спецификации, решению, аудиту или техническому файлу только если задача этого требует.
 6. Для полного перечня источников используй приватный PROJECT_MAP.md в репозитории eventflow-project-docs.
 
 ## 3. Иерархия источников
 
-- Утверждённые требования и спецификации: приватный PelzA83/EventFlow, docs/specifications/.
-- График и приоритеты: приватный PelzA83/EventFlow, docs/DEMO_RELEASE_PLAN.md.
-- Фактический код и проверенный статус публичной Demo: PelzA83/eventflow-demo.
-- Подробная архитектура, аудиты, SQL, решения и история: приватный PelzA83/eventflow-project-docs.
+- Утверждённые требования и спецификации: приватный pelzdesign/EventFlow, docs/specifications/.
+- График и приоритеты: приватный pelzdesign/EventFlow, docs/DEMO_RELEASE_PLAN.md.
+- Фактический код и проверенный статус публичной Demo: pelzdesign/eventflow-demo.
+- Подробная архитектура, аудиты, SQL, решения и история: приватный pelzdesign/eventflow-project-docs.
 - Этот публичный Project Hub: только навигационная и справочная копия.
 
 Репозитории не являются зеркалами. Не предполагай, что изменение в одном автоматически присутствует в другом. При расхождении сначала определи назначение источника и дату, затем исправь нужную производную сводку.
